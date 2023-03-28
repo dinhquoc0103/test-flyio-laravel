@@ -22,5 +22,5 @@ Route::get("/history", function () {
 });
 
 Route::get("/cart", function () {
-    return "Cart Pagesssssssssss";
+    return "Cart Pagesssssssssssssssssss";
 });
